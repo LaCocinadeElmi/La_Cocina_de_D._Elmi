@@ -1,0 +1,551 @@
+.bar {
+    margin-bottom:-144px;
+    z-index: -1;
+    max-width:1068px;
+    position:relative;
+    top: -136px;
+    right:0px;
+    left:2px;
+   bottom:0px;
+}
+
+.titunote {
+    text-align: center;
+    color:#ffffff;
+    font-size: 32px;
+    font-weight: 700;
+    text-shadow:3px 3px #2163c7;
+    letter-spacing: 1px;
+    background-color: rgb(124, 168, 250);
+    line-height: 1.5;
+    border-radius:1.4em 1.4em 0em 0em;
+    padding: 10px 98px 12px 98px;
+    margin: -13px -63px 0px -63px;
+}
+
+.titunota {
+    text-align: justify;
+    background-color: #ffffff;
+    border: 3px #2163c7 solid;
+    line-height: 1.4;
+    border-radius:2em;
+    padding: 10px 60px 20px 60px;
+    margin: -320px 0px 0px 480px;
+    position: relative;
+    bottom: 40px;
+    box-shadow:2px 2px 3px #567794;
+    display: inline-block;
+    font-size: 21px;
+}
+
+.giff {
+    border: 2px #ffffff solid;
+    box-shadow: 2px 2px 3px #567794;
+    position: relative;
+    bottom: -10px;
+}
+
+body {
+    background-color: aquamarine;
+    max-height: 100%;
+    font-family: 'Quicksand', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    margin: 0px 140px 0px 140px;
+}
+
+.titulo {
+    color: #f1fafd;
+    letter-spacing:2px;
+    font-family:'Amaranth', sans-serif;
+    text-shadow: 4px 4px 1px rgb(124, 168, 250);
+    margin: 20px 120px 20px 120px;
+    border: 4px rgb(39, 126, 184) solid;
+    border-radius: 72px;
+    background-color: rgb(55, 146, 206);
+    padding-top : 15px ;
+    padding-left: 70px;
+    padding-bottom:15px;
+    padding-right:70px;
+    display: inline-block;
+}
+
+.dup {
+    background-color: #ffffff;
+    padding-bottom: 14px;
+    margin-bottom: -10px;
+    display: block;
+}
+
+hr{
+    border: 2px #0a2d4b solid;
+}
+
+.nov {
+    font-family: 'Amaranth', sans-serif;
+    font-size: 50px;
+   line-height: 3;
+   place-items:center;
+   margin: -8px 0px -14px 0px;
+    background:70px rgb(255, 255, 255);
+}
+
+.TITLE1{
+    color: #f1fafd;
+    letter-spacing: 1px;
+    font-family:'Amaranth', sans-serif;
+    font-size: 44px;
+    text-shadow: 4px 4px 1px rgb(124, 168, 250);
+    margin: 20px 120px 24px 120px;
+    border: 4px rgb(39, 126, 184) solid;
+    border-radius: 72px;
+    background-color: rgb(55, 146, 206);
+    padding-top : 15px ;
+    padding-left: 70px;
+    padding-bottom:15px;
+    padding-right:70px;
+    display: inline-block;
+}
+
+.TITLE2{
+    color: #f1fafd;
+    letter-spacing: 2px;
+    font-family:'Amaranth', sans-serif;
+    font-size: 44px;
+    text-shadow: 4px 4px 1px rgb(124, 168, 250);
+    margin: 20px 120px 30px 120px;
+    border: 4px rgb(39, 126, 184) solid;
+    border-radius: 72px;
+    background-color: rgb(55, 146, 206);
+    padding-top : 15px ;
+    padding-left: 70px;
+    padding-bottom:15px;
+    padding-right:70px;
+    display: inline-block;
+}
+
+.tab {
+    font-weight: 700;
+    font-size: 18px;
+    background-color:rgb(124, 168, 250);
+    padding:10px 20px 10px 20px;
+    margin-right: -4px;
+    margin-bottom: -90px;
+}
+
+.tab2 {
+    text-align: center;
+    font-size: 18px;
+    background-color:rgb(211, 250, 253);
+    border-color:rgb(124, 168, 250);
+    padding:10px 20px 10px 20px;
+    margin-right: -4px;
+    margin-bottom: -90px;
+}
+
+.tab3 {
+    font-size: 18px;
+    background-color:rgb(211, 250, 253);
+    border-color:rgb(124, 168, 250);
+    padding:10px 20px 10px 20px;
+    margin-right: -8px;
+    margin-bottom: -50px;
+}
+
+.tab4 {
+    background-color:rgb(124, 168, 250);
+    padding:10px 20px 10px 20px;
+    margin-right: -4px;
+    margin-bottom: -90px;
+}
+
+.tab5 {
+    font-size: 18px;
+    background-color:rgb(211, 250, 253);
+    border-color:rgb(124, 168, 250);
+    padding:10px;
+    margin-right: -8px;
+    margin-bottom: -90px;
+}
+
+.orden {
+    font-size: 18px;
+    background-color:rgb(124, 168, 250);
+    padding:10px 20px 10px 20px;
+    display: inline;
+    margin-right: -4px;
+    margin-bottom: -90px;
+}
+
+.cont3 {
+    text-align: justify;
+    background: #ffffff;
+    padding: 27px;
+    margin: 0px 0px -8px 0px;
+    font-family:'Raleway', sans-serif;
+    font-size: 20px;
+    line-height: 1.5;
+    display: block;
+}
+
+.CONTACTO2 {
+    text-align: justify;
+    font-weight: 700;
+    background: #ffffff;
+    padding:16px 20px 0px 20px;
+    margin: -18px 0px 36px 0px;
+    font-family:'Raleway', sans-serif;
+    font-size: 21px;
+    line-height: 1.5;
+    display: block;
+}
+
+.cont2 {
+    text-align: justify;
+    background: #ffffff;
+    padding: 27px;
+    margin: 0px 0px -8px 0px;
+    font-family:'Raleway', sans-serif;
+    font-size: 20px;
+    line-height: 1.5;
+    display: block;
+}
+
+.cont {
+    text-align: justify;
+    background: #ffffff;
+    padding: 21px;
+    margin: -8px 408px -12px 0px;
+    font-family:'Raleway', sans-serif;
+    font-size: 20px;
+    line-height: 1.5;
+    display: block;
+}
+
+.contacto {
+    text-align: justify;
+    font-weight: 700;
+    background: #ffffff;
+    padding:0px 20px 0px 20px;
+    margin: 0px 408px -20px 0px;
+    font-family:'Raleway', sans-serif;
+    font-size: 21px;
+    line-height: 1.5;
+    list-style-image: url(plato3.png);
+    display: block;
+}
+
+.CONT {
+    text-align: justify;
+    background: #ffffff;
+    padding: 21px;
+    margin: -8px 0 -12px 458px;
+    font-family:'Raleway', sans-serif;
+    font-size: 20px;
+    line-height: 1.5;
+    display: inline-block;
+}
+
+.CONTACTO {
+    text-align: justify;
+    font-weight: 700;
+    background: #ffffff;
+    padding:16px 32px 0px 28px;
+    margin: -18px 0px 36px 0px;
+    font-family:'Raleway', sans-serif;
+    font-size: 27px;
+    line-height: 1.2;
+    display: block;
+    list-style-image: url(cafe.png);
+}
+
+.Instagram{
+    line-height: 2;
+    padding-bottom: 40px;
+    margin-bottom: -46px;
+}
+
+.Instagram2{
+    padding-bottom: 26px;
+    margin-bottom: -12px;
+}
+
+.p{
+    line-height: .5
+    ;
+}
+
+.ejem {
+    height: 277px;
+    position:relative;
+    left:678px;
+    bottom: 481px;
+    background: rgb(211, 250, 253);
+    padding:18px 62px 0px 62px;
+    display: block;
+    margin: 0px 0px -360px 0px;
+}
+
+.ejem4 {
+    height: 193px;
+    position:relative;
+    left:678px;
+    bottom: 210px;
+    background: rgb(211, 250, 253);
+    padding:0px 62px 18px 62px;
+    display: block;
+    margin: 0px 0px -200px 0px;
+}
+
+.sub{
+    background: #ffffff;
+    padding-bottom:20px;
+    padding-top: 30px;
+    margin: -12px 0px -24px 0px;
+    font-family: 'Amaranth', sans-serif;
+    font-size: 32px;
+    line-height: 1.5;
+    display: block
+}
+
+.sub2{
+    background: #ffffff;
+    padding-bottom:5px;
+    padding-left:20px;
+    padding-right:20px;
+    margin: -8px 0px -12px 0px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 22px;
+    line-height: 1.5;
+    display: block
+}
+
+.sub3{
+    padding:8px 40px 18px 40px;
+    font-family: 'Quicksand', sans-serif;
+    margin: -12px 0px -12px 0px;
+    line-height: 1.5;
+    text-align: left;
+    background: rgb(211, 250, 253);
+    display: block
+}
+
+.sub4{
+    padding-bottom:18px;
+    margin: -8px 0px -12px 0px;
+    line-height: 1.5;
+    text-align: left;
+    background:#ffffff;
+    display: block
+}
+
+
+.tod {
+    background: #ffffff;
+}
+
+.gif{
+    position:relative;
+    left:-20px;
+    top: -480px;
+    margin-bottom: -370px;
+    border: 2px #ffffff solid;
+    box-shadow: 2px 2px 3px #567794;
+}
+
+.gif2{
+    position:relative;
+    left:-20px;
+    top: -480px;
+    margin-bottom: -370px;
+    border: 2px #ffffff solid;
+    box-shadow: 2px 2px 3px #567794;
+}
+
+.link{
+    margin-top: -24px;
+    margin-bottom: -44px;
+    line-height:1;
+    text-align: left;
+    background: rgb(211, 250, 253);
+    display: block;
+    padding-bottom: 30px;
+    padding-top:24px ;
+    padding-left: 14px;
+    list-style-image: url(Egg3.png)
+}
+
+.div{
+    color: #ffffff;
+}
+
+.centry, .stars{
+height: 150px;
+width: 500px;
+text-align: center;
+margin: -30px 0px 65px 0px;
+}
+
+.stars input{
+    display: none;
+}
+
+.stars label{
+    float: right;
+font-size: 100px;
+color: lightblue ;
+margin:0 5px ;
+text-shadow: 4px 2px rgb(124, 168, 250);
+transition: all 0.2s ease;
+}
+
+.stars label:before{
+    content: '★';
+    }
+    
+.stars input:checked~label{
+  color:rgb(255, 227, 68);
+  text-shadow: 4px 2px rgb(255, 183, 48);
+}
+
+.stars:not(:checked)>label:hover,
+.stars:not(:checked)>label:hover~label{
+    color:rgb(255, 227, 68);
+}
+
+.stars input:checked>label:hover,
+.stars input:checked>label:hover~label{
+    color:rgb(255, 227, 68);
+    text-shadow: 4px 2px rgb(255, 183, 48);
+    transition: all 0.4s ease;
+}
+
+.stars .result:before{
+    position:absolute;
+    left: 51%;
+    content: 'Evalúenos :)';
+    transform: translateX(-50%);
+    bottom: 30px;
+    font-size: 30px;
+    font-size: 30px;
+    font-weight: 500;
+    color:rgb(0, 0, 0);
+    font-family: 'Poppins', sans-serif;
+    margin: 0px 0px 155px 0px;
+    padding: 10px 30px 10px 30px;
+    background-color: #f1fafd;
+    border-radius: 30px;
+    transition: all 0.4s ease;
+}
+
+.stars input:checked ~ .result:before{
+    display: block;
+    transition: all 0.4s ease;
+}
+
+.stars #five:checked ~ .result:before{
+    content: "Me encanto";
+}
+
+.stars #four:checked ~ .result:before{
+    content: "Me gusto";
+}
+
+.stars #three:checked ~ .result:before{
+    content: "Estuvo bien";
+}
+
+.stars #two:checked ~ .result:before{
+    content: "Podría ser mejor";
+}
+
+.stars #one:checked ~ .result:before{
+    content: "No me gusto";
+}
+
+.boton{
+    font-family:'poppins', sans-serif;
+    text-align: center;
+    font-size: 18px;
+    background-color:rgb(211, 250, 253);
+    border-color:rgb(124, 168, 250);
+    border-radius: 6px;
+    padding:10px 30px 10px 30px;
+    margin-right: -4px;
+    margin-bottom: -90px;
+}
+
+.boton2{
+    font-family:'poppins', sans-serif;
+    text-align: center;
+    font-size: 18px;
+    background-color:rgb(211, 250, 253);
+    border-color:rgb(124, 168, 250);
+    border-radius: 6px;
+    padding:10px 30px 10px 30px;
+    margin-right: -4px;
+    margin-bottom: -90px;
+}
+
+.CONTACTO3 {
+    text-align: justify;
+    font-weight: 700;
+    background: #ffffff;
+    padding:24px 40px 24px 40px;
+    margin: -18px 0px 60px 0px;
+    font-family:'Raleway', sans-serif;
+    font-size: 21px;
+    line-height: 1.5;
+    display: block
+}
+
+.subtitu{
+    font-size: 32px;
+    color: #58404b;
+    letter-spacing:.5px;
+    font-family:'Amaranth', sans-serif;
+    text-shadow: 4px 4px 1px rgb(255, 238, 200);
+    margin: 40px 0px 40px 0px;
+    border: 4px rgb(247, 162, 83) solid;
+    border-radius: 2em;
+    background-color: rgb(250, 199, 89);
+    padding-top : -10px ;
+    padding-left: 70px;
+    padding-bottom:-10px;
+    padding-right:70px;
+    display: inline-block;   
+}
+
+.exp {
+    display: grid;
+}
+
+.sub10{
+    padding-bottom:2px;
+    margin: -8px 0px 0px 0px;
+    line-height: 1.5;
+    font-size: 14px;
+    text-align: center;
+    background:#ffffff;
+    display: block
+}
+
+/**
+
+@media
+
+**/
+
+/**
+<CENTER><hr><H3 class="sub">MÁS INFORMACIÓN...</H3>
+    <div class="sub2"><p>Si desea conocer un lugar nuevo donde usted pueda comer aquí en Playa del Carmen, Q. Roo;
+    <BR>los siguientes lugares puede que resulten de su agrado visitarlos:</CENTER></div>
+
+  <HR><p><nav class="link"><UL>
+    <Li><A HREF="https://www.clownillustration.com/welcomehomeyou">Victor</A></p></Li>  <font size="4">comida a</font>
+   <p> <Li><A HREF="https://www.clownillustration.com/welcomehomeyou">Eduardo</A></p></Li>  <font size="4">comida b</font>
+   <p> <Li><A HREF="https://www.clownillustration.com/welcomehomeyou">Marina</A></p></Li>  <font size="4">comida c</font>
+   <p> <Li><A HREF="https://www.clownillustration.com/welcomehomeyou">Luisito :3</A></Li>  </p><font size="4">comida d</font>
+   <p> <Li><A HREF="https://www.clownillustration.com/welcomehomeyou">Freddy</A></p></Li>  <font size="4">comida e</font></nav>
+  </UL>
+
+    <img src="BORRAGIF.jpg"WIDTH="360"class="gif"></IMG> <img src="BORRAGIF.jpg"WIDTH="360"class="gif2"></IMG>
+**/
